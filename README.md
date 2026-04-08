@@ -7,3 +7,10 @@
 OOP kya hota hai
 Class & Object
 Access Specifiers (public, private, protected)
+
+🔹 Day 2: Encapsulation
+
+📌 Topics:
+
+Data hiding
+Getter & Setter
