@@ -14,3 +14,6 @@ Access Specifiers (public, private, protected)
 
 Data hiding
 Getter & Setter
+
+
+in oops object is a instance of class 
